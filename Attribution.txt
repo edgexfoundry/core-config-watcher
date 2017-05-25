@@ -1,0 +1,11 @@
+The following open source projects are referenced by Core Config Watcher:
+
+Consul Client (Apache 2.0) - https://github.com/OrbitzWorldwide/consul-client
+https://github.com/OrbitzWorldwide/consul-client/blob/master/LICENSE
+
+HttpClient (Apache 2.0) - https://hc.apache.org/httpcomponents-client-4.5.x/index.html
+https://hc.apache.org/httpcomponents-client-4.5.x/license.html
+
+Apache Commons Logging (Apache 2.0) - https://commons.apache.org/proper/commons-logging/
+https://commons.apache.org/proper/commons-logging/
+

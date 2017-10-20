@@ -23,7 +23,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.edgexfoundry</groupId>
 	<artifactId>core-config-watcher</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>0.2.0-SNAPSHOT</version>
 	<name>EdgeX Foundry Core Config Watcher Micro Service</name>
 	<description>EdgeX Foundry Core Config Watcher Micro Service</description>
 
